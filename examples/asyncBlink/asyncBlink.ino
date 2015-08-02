@@ -1,5 +1,7 @@
 // asyncBlink.ino ~ blink all the things as opposed to just one thing
 // Copyright 2015 ~ Paul Beaudet ~ MIT Licence
+// This example is meant to be an intro to more complex Arduino code
+// after having looked at the standard blink example
 #include <TimeCheck.h> // Include library
 // TimeCheck abstracts some complexity around checking a stop watch
 #define LED_PIN 13     // replace the word LED_PIN with 13 before compile
